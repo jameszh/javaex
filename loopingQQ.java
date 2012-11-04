@@ -11,7 +11,7 @@ public class loopingQQ{
        int intCount; 
        int intLength; 
        
-       strSpaces = " ;
+       strSpaces = "";
        
        con.println("give me a word to styleize");
        strWord = con.readLine();

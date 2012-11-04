@@ -7,9 +7,9 @@ public class loopingQ6{
 	   int intNumber;
 	   int intPositive = 0;
 	   
-	  intNumber > 0;
+	
 	   
-	   for(intNumber++){
+	   for(intNumber=0;intNumber<100;intNumber++){
 		   con.println("n: "+intNumber);
 		   
      }   

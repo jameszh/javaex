@@ -29,7 +29,7 @@ public class looping5{
       
       }
       
-      dblTax = dblSubTotal * 0.13;
+      dblTax = dblSubtotal * 0.13;
       dblTotal = dblSubtotal + dblTax; 
       
       con.println("Your tax is:"+dblTax); 

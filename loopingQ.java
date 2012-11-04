@@ -9,7 +9,7 @@ public class loopingQ{
     public static void main(String[] args){
        Console con = new Console();
        
-       int intNum;
+       int intNum=0;
        int intPre;
        int intPrePre;
        int intPos;
